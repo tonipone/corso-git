@@ -1,4 +1,4 @@
 src
 *.log
-.DS_Store
+DS_Store
 !debug.log
