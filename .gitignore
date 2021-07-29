@@ -1,5 +1,6 @@
 src
 *.log
+.idea
 .DS_Store
 .DS_Store?
 !debug.log
